@@ -220,3 +220,15 @@ button {
   align-self: center;
 
 }
+.copy{
+  background-color: #1f2937;
+  padding: 40px;
+  color: #a5a7a7;
+  font-family: 'Roboto';
+
+}
+
+#copy{
+  
+  text-align: center;
+}
