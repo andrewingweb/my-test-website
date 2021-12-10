@@ -220,7 +220,8 @@ button {
   align-self: center;
 
 }
-.copy{
+
+.copy {
   background-color: #1f2937;
   padding: 40px;
   color: #a5a7a7;
@@ -228,7 +229,7 @@ button {
 
 }
 
-#copy{
-  
+#copy {
+
   text-align: center;
 }
