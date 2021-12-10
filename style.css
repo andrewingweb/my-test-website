@@ -1,0 +1,17 @@
+
+*{
+  border: solid 2px orangered;
+}
+
+div{
+  width: 640px;
+  text-align: center;
+}
+ul{
+  width: 100px;
+  margin: 0 auto;
+}
+p{
+  width: 250px;
+  margin:20px auto;
+}
